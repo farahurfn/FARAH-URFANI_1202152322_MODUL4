@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Farah_1202152322_studycase4</string>
+    <string-array name="namaMhs">
+        <item>Fani</item>
+        <item>Hana</item>
+        <item>Ranti</item>
+        <item>Ega</item>
+        <item>Hirnanda</item>
+        <item>Firda</item>
+        <item>Ichsan</item>
+        <item>Faizal</item>
+        <item>Aldy</item>
+        <item>Dimas</item>
+        <item>Fahmi</item>
+        <item>Shiddiq</item>
+        <item>Rinadhi</item>
+    </string-array>
+</resources>
